@@ -1,3 +1,16 @@
+#Nama : Yola Vegita
+#NPM  : 1184070
+#Kelas : D4TI3A
+
+# SVM Support Vektor Machine
+
+Support vektor machine atau SVM adalh suatu teknik yang dapat dikategorikan sebagai teknik baru untuk melakukan sebuah prediksi, 
+baik dalam kasusu dengan klasifikasi maupun regresi. SVM berada dalam satu kelas dengan Artificial Neural Network (ANN) dalam fungsi 
+dan kondisi permasalahan yang bisa diselesaikan. Kedua hal tersebut masuk dalam kelas supervised learning,
+dimana dalam implementasinya perlu adanya tahap training dan disusul tahap testing.
+
+
+
 == Support Vector Machines in Python ==
 
 Author: Jeremy Stober
